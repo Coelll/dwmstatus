@@ -1,5 +1,6 @@
 # dwmstatus
 Dwm status bar.
+![screenshot](screenshot.jpg)
 
 Installation.
 -------------
